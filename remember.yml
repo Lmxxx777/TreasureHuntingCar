@@ -1,0 +1,7 @@
+look_map: false
+back_home: false
+read_point: false
+location:
+- [1, 2]
+- [3, 4]
+- [5, 6]
